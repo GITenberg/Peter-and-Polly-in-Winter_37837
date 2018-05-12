@@ -1,0 +1,27 @@
+_repo: Peter-and-Polly-in-Winter_37837
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 37837-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Lucia, Rose
+    gutenberg_agent_id: '39089'
+    url: http://www.gutenberg.org/2009/agents/39089
+description: ''
+gutenberg_issued: '2011-10-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37837'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Country life -- Juvenile fiction'
+- !lcsh 'Winter -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Brothers and sisters -- Juvenile fiction'
+- !lcsh 'Readers'
+title: Peter and Polly in Winter
+url: http://www.gutenberg.org/ebooks/37837
